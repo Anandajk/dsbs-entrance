@@ -1,0 +1,114 @@
+[
+  {
+    "id": "SUB-1793434279655-9098",
+    "candidate": {
+      "name": "Rahul Sharma",
+      "email": "rahul.s@example.com",
+      "phone": "9876543210",
+      "rollNumber": "DSBS-2026-1042",
+      "assignedSet": "B"
+    },
+    "paperSet": "Set B",
+    "startedAt": "2026-10-31T08:00:00.000Z",
+    "submittedAt": "2026-10-31T08:00:48.000Z",
+    "timeTakenSeconds": 48,
+    "totalQuestions": 100,
+    "attemptedCount": 3,
+    "correctCount": 1,
+    "incorrectCount": 2,
+    "unansweredCount": 97,
+    "score": 1,
+    "percentage": 1,
+    "status": "Fail",
+    "tabSwitches": 0,
+    "sectionScores": {
+      "Quantitative Aptitude": {
+        "total": 20,
+        "correct": 1,
+        "attempted": 3
+      },
+      "Logical Reasoning": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "Verbal Ability": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "Business & Economy": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "General Knowledge & Tech": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      }
+    },
+    "answers": {
+      "101": 0,
+      "102": 1,
+      "103": 2
+    }
+  },
+  {
+    "id": "SUB-1793427777204-1132",
+    "candidate": {
+      "name": "Ananya Sen",
+      "email": "ananya.sen@example.com",
+      "phone": "9811223344",
+      "rollNumber": "DSBS-2026-8812",
+      "assignedSet": "B"
+    },
+    "paperSet": "Set B",
+    "startedAt": "2026-10-31T06:20:00.000Z",
+    "submittedAt": "2026-10-31T06:20:54.000Z",
+    "timeTakenSeconds": 54,
+    "totalQuestions": 100,
+    "attemptedCount": 5,
+    "correctCount": 5,
+    "incorrectCount": 0,
+    "unansweredCount": 95,
+    "score": 5,
+    "percentage": 5,
+    "status": "Fail",
+    "tabSwitches": 0,
+    "sectionScores": {
+      "Quantitative Aptitude": {
+        "total": 20,
+        "correct": 5,
+        "attempted": 5
+      },
+      "Logical Reasoning": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "Verbal Ability": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "Business & Economy": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      },
+      "General Knowledge & Tech": {
+        "total": 20,
+        "correct": 0,
+        "attempted": 0
+      }
+    },
+    "answers": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1
+    }
+  }
+]

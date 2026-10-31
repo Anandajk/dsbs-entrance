@@ -1,0 +1,6 @@
+{
+  "name": "Dayananda Sagar Business School Entrance Exam",
+  "description": "Online MCQ entrance assessment platform for Dayananda Sagar Business School with candidate registration, timed test environment, auto-grading, and admin Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

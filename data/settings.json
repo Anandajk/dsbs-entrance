@@ -1,0 +1,18 @@
+{
+  "examTitle": "DSBS Management Aptitude Entrance Examination - Admission Cycle 2027-28",
+  "institutionName": "Dayananda Sagar Business School (DSBS)",
+  "durationSeconds": 3600,
+  "passingPercentage": 50,
+  "enableNegativeMarking": false,
+  "negativeMarkPenalty": 0.25,
+  "allowReviewAfterSubmit": false,
+  "shuffleQuestions": false,
+  "proctoringStrictness": "medium",
+  "paperSets": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "questionsPerSet": 100
+}
